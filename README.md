@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning multiple software, and using them to 🔭 build meaningful and interesting projects. <br />
-⚡ Fun fact: I graduated from Aerospace Engineering. But those school coding projects made me realize I wanted to work on AI / software more!
+⚡ Fun fact: I graduated from Aerospace Engineering. But school coding projects made me realize I wanted to work on AI / software more!
 
 <!--
 **c6z3h/c6z3h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
