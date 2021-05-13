@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning multiple software, and using them to 🔭 build meaningful and interesting projects.
+🌱 I’m currently learning multiple software, and using them to 🔭 build meaningful and interesting projects. <br />
 ⚡ Fun fact: I graduated from Aerospace Engineering. But those school coding projects made me realize I wanted to work on AI / software more!
 
 <!--
