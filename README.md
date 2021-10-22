@@ -2,6 +2,8 @@
 🌱 I’m always learning new software, and using them to 🔭 build meaningful and interesting projects. <br />
 ⚡ Fun fact: I graduated from Aerospace Engineering. But school coding projects made me realize I wanted to work on AI / software more!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c6z3h)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **c6z3h/c6z3h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
