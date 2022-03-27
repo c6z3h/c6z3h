@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m always learning new software, and using them to 🔭 build meaningful and interesting projects. <br />
+🌱 I’m always learning new software, and using them to 🔭 build meaningful projects. <br />
 ⚡ Fun fact: I graduated from Aerospace Engineering. But school coding projects made me realize I wanted to work on AI / software more!
 
 <!--
